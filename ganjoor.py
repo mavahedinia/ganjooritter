@@ -1,4 +1,6 @@
-import tweepy, json, requests
+import tweepy
+import json
+import requests
 
 CONSUMER_KEY = ''
 CONSUMER_SECRET = ''
